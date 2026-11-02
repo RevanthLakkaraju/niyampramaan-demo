@@ -1,4 +1,4 @@
-# NiyamPramaan — Team X-CEPTION
+# SPASHTA — Team X-CEPTION
 
 Synthetic SIH26261 reference demonstration. Each browser receives its own temporary case, role sessions and manual 51-scene walkthrough. Different tabs in the same browser share that browser’s case. No AICTE integration or production approval is provided. Use supplied sample documents only.
 
